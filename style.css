@@ -7,12 +7,13 @@ body {
     font-family: 'Gill Sans';
     text-align: center;
     color: rgb(221, 240, 240);
+    letter-spacing: 2px;
   }
 
   /* Banner Section */
 .banner {
     margin-top: 0px;
-    padding: 40px 0 100px 0;
+    padding: 20px 0 40px 0;
     background-color:rgb(5, 31, 117);
       }
 
