@@ -6,13 +6,13 @@ body {
   h1, .subhead {
     font-family: 'Gill Sans';
     text-align: center;
-    color: azure;
+    color: rgb(221, 240, 240);
   }
 
   /* Banner Section */
 .banner {
     margin-top: 74px;
     padding: 40px 0 100px 0;
-    background-color: #4D00FF;
+    background-color:rgb(51, 141, 141)
   }
 
