@@ -4,7 +4,7 @@ body {
   }
 
   h1, .subhead {
-    font-family: 'Gill Sans';
+    font-family: 'Courier New';
     text-align: center;
     color: rgb(221, 240, 240);
     letter-spacing: 2px;
@@ -18,7 +18,15 @@ body {
       }
 
 .wagerhead {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    color: rgb(24, 23, 23);
+    padding: 2px 0 5px 5px;
+    background-color: rgb(237, 245, 245);
+}
+
+.wagerchoice {
+    font-family: 'Courier New', Courier, monospace;
     text-align: left;
     color: rgb(24, 23, 23);
 }
