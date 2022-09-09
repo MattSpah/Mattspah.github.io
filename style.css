@@ -1,32 +1,38 @@
 body {
-    background-color: rgb(208, 219, 219);  
-    text-align: center;  
-  }
+  background-color: rgb(208, 219, 219);  
+  text-align: center;  
+}
 
-  h1, .subhead {
-    font-family: 'Courier New';
-    text-align: center;
-    color: rgb(221, 240, 240);
-    letter-spacing: 2px;
-  }
+h1, .subhead {
+  font-family: 'Courier New';
+  text-align: center;
+  color: rgb(221, 240, 240);
+  letter-spacing: 2px;
+}
 
-  /* Banner Section */
+/* Banner Section */
 .banner {
-    margin-top: 0px;
-    padding: 20px 0 40px 0;
-    background-color:rgb(5, 31, 117);
-      }
+  margin-top: 0px;
+  padding: 20px 0 40px 0;
+  background-color:rgb(5, 31, 117);
+    }
 
 .wagerhead {
-    font-family: 'Courier New', Courier, monospace;
-    text-align: left;
-    color: rgb(24, 23, 23);
-    padding: 2px 0 5px 5px;
-    background-color: rgb(237, 245, 245);
+  font-family: 'Courier New', Courier, monospace;
+  text-align: left;
+  color: rgb(24, 23, 23);
+  padding: 2px 0 5px 5px;
+  background-color: rgb(237, 245, 245);
 }
 
 .wagerchoice {
-    font-family: 'Courier New', Courier, monospace;
-    text-align: left;
-    color: rgb(24, 23, 23);
+  font-family: 'Courier New', Courier, monospace;
+  text-align: left;
+  color: rgb(24, 23, 23);
+  width: 500px;
+}
+
+#Wager_1 {
+  float: left;
+  margin-right: 15px;
 }
