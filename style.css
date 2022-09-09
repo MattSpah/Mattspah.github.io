@@ -30,9 +30,23 @@ h1, .subhead {
   text-align: left;
   color: rgb(24, 23, 23);
   width: 500px;
+  padding: 20px 100% 50px 20px;
+  background: dodgerblue linear-gradient(45deg, aqua, dodgerblue, rgb(5, 31, 117)) fixed;
 }
 
 #Wager_1 {
   float: left;
   margin-right: 15px;
+  border-width: 2px;
+  border-style: groove;
+  border-color: rgb(5, 31, 117);
+  opacity: 0.95;
+}
+
+#comment-box {
+  margin-top: 50px;
+}
+
+#post:hover {
+  background-color: deeppink;
 }
