@@ -13,9 +13,9 @@ h1, .subhead {
 /* Banner Section */
 .banner {
   margin-top: 0px;
-  padding: 20px 0 40px 0;
+  padding: 20px 0px 40px 0;
   background-color:rgb(5, 31, 117);
-    }
+}
 
 .wagerhead {
   font-family: 'Courier New', Courier, monospace;
@@ -30,9 +30,10 @@ h1, .subhead {
   text-align: left;
   color: rgb(24, 23, 23);
   width: 500px;
-  padding: 20px 100% 50px 20px;
+  padding: 20px 100% 100px 20px;
   background: dodgerblue linear-gradient(45deg, aqua, dodgerblue, rgb(5, 31, 117)) fixed;
-}
+  position: sticky;
+  }
 
 #Wager_1 {
   float: left;
@@ -41,12 +42,4 @@ h1, .subhead {
   border-style: groove;
   border-color: rgb(5, 31, 117);
   opacity: 0.95;
-}
-
-#comment-box {
-  margin-top: 50px;
-}
-
-#post:hover {
-  background-color: deeppink;
 }
