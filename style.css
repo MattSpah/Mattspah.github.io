@@ -1,10 +1,10 @@
 body {
   background-color: rgb(208, 219, 219);  
-  text-align: center;  
+  text-align: center;
+  font-family: 'Titillium Web', sans-serif;  
 }
 
 h1, .subhead {
-  font-family: 'Courier New';
   text-align: center;
   color: rgb(221, 240, 240);
   letter-spacing: 2px;
@@ -18,15 +18,13 @@ h1, .subhead {
 }
 
 .wagerhead {
-  font-family: 'Courier New', Courier, monospace;
   text-align: left;
   color: rgb(24, 23, 23);
-  padding: 2px 0 5px 5px;
+  padding: 5px 0 5px 5px;
   background-color: rgb(237, 245, 245);
 }
 
 .wagerchoice {
-  font-family: 'Courier New', Courier, monospace;
   text-align: left;
   color: rgb(24, 23, 23);
   width: 500px;
