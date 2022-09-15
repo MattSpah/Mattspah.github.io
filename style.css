@@ -1,8 +1,10 @@
 body {
   background-color: rgb(208, 219, 219);  
   text-align: center;
-  font-family: 'Titillium Web', sans-serif;  
-}
+  font-family: 'Titillium Web', sans-serif;
+  background-size: auto;
+  width: 100%;
+  }
 
 h1, .subhead {
   text-align: center;
@@ -15,14 +17,14 @@ h1, .subhead {
   margin-top: 0px;
   padding: 20px 0px 40px 0;
   background-color:rgb(5, 31, 117);
-}
+  }
 
 .wagerhead {
   text-align: left;
   color: rgb(24, 23, 23);
   padding: 5px 0 5px 5px;
   background-color: rgb(237, 245, 245);
-}
+  }
 
 .wagerchoice {
   text-align: left;
@@ -30,8 +32,7 @@ h1, .subhead {
   width: 500px;
   padding: 20px 100% 100px 20px;
   background: dodgerblue linear-gradient(45deg, aqua, dodgerblue, rgb(5, 31, 117)) fixed;
-  
-}
+  }
 
 #TeamLogo {
   float: left;
@@ -42,4 +43,5 @@ h1, .subhead {
 
 .result {
   text-align: right;
+  padding-right: 25px;
 }
