@@ -12,6 +12,7 @@ h1, .subhead {
   letter-spacing: 2px;
 }
 
+
 /* Banner Section */
 .banner {
   margin-top: 0px;
@@ -29,9 +30,6 @@ h1, .subhead {
 .wagerchoice {
   text-align: left;
   color: rgb(24, 23, 23);
-  width: 500px;
-  padding: 20px 100% 100px 20px;
-  background: dodgerblue linear-gradient(45deg, aqua, dodgerblue, rgb(5, 31, 117)) fixed;
   }
 
 #TeamLogo {
@@ -42,6 +40,10 @@ h1, .subhead {
 }
 
 .result {
-  text-align: right;
+  text-align: left;
   padding-right: 25px;
+}
+
+.Commentary {
+  padding-right: 20px;
 }
